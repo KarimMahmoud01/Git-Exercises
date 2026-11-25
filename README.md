@@ -1,1 +1,1 @@
-![Nature](\images\284467.jpg)
+![Nature](./images/284467.jpg)
